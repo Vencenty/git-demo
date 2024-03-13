@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(1)
+	fmt.Println("master第一次提交")
 }
