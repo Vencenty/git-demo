@@ -10,4 +10,6 @@ func main() {
 	fmt.Println("master第三次提交")
 	fmt.Println("master第四次提交")
 	fmt.Println("master第五次提交")
+	fmt.Println("我加个文件a")
+	fmt.Println("少加了一行代码")
 }
