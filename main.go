@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("master第一次提交")
+	fmt.Println("server第一个功能点")
 }
