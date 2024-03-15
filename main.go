@@ -13,4 +13,5 @@ func main() {
 	fmt.Println("dev分支合并上了第二个新功能")
 	fmt.Println("dev分支合并上了第三个新功能")
 	fmt.Println("master第四次提交")
+	fmt.Println("master第五次提交")
 }
